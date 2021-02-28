@@ -1,3 +1,6 @@
 [submodule "01-cartoon"]
 	path = 01-cartoon
 	url = https://github.com/cisc3610-mmp/01-cartoon
+[submodule "lab-chart"]
+	path = lab-chart
+	url = https://github.com/cisc3610-mmp/lab-chart
