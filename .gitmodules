@@ -4,3 +4,6 @@
 [submodule "lab-chart"]
 	path = lab-chart
 	url = https://github.com/cisc3610-mmp/lab-chart
+[submodule "lab-animation"]
+	path = lab-animation
+	url = https://github.com/cisc3610-mmp/lab-animation
