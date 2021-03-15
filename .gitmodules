@@ -7,3 +7,6 @@
 [submodule "lab-animation"]
 	path = lab-animation
 	url = https://github.com/cisc3610-mmp/lab-animation
+[submodule "02-animation"]
+	path = 02-animation
+	url = git@github.com:cisc3610-mmp/02-animation.git
