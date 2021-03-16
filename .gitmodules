@@ -10,3 +10,6 @@
 [submodule "02-animation"]
 	path = 02-animation
 	url = https://github.com/cisc3610-mmp/02-animation
+[submodule "lab-notebook"]
+	path = lab-notebook
+	url = https://github.com/cisc3610-mmp/lab-notebook
