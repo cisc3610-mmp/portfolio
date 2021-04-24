@@ -16,3 +16,6 @@
 [submodule "03-data-visualization"]
 	path = 03-data-visualization
 	url = https://github.com/cisc3610-mmp/03-data-visualization
+[submodule "lab-phaser-drag-n-drop"]
+	path = lab-phaser-drag-n-drop
+	url = https://github.com/cisc3610-mmp/lab-phaser-drag-n-drop
