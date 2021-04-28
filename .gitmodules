@@ -19,3 +19,6 @@
 [submodule "lab-phaser-drag-n-drop"]
 	path = lab-phaser-drag-n-drop
 	url = https://github.com/cisc3610-mmp/lab-phaser-drag-n-drop
+[submodule "lab-audio"]
+	path = lab-audio
+	url = https://github.com/cisc3610-mmp/lab-audio
