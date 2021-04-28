@@ -22,3 +22,6 @@
 [submodule "lab-audio"]
 	path = lab-audio
 	url = https://github.com/cisc3610-mmp/lab-audio
+[submodule "lab-video"]
+	path = lab-video
+	url = https://github.com/cisc3610-mmp/lab-video
