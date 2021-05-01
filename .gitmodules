@@ -25,3 +25,6 @@
 [submodule "lab-video"]
 	path = lab-video
 	url = https://github.com/cisc3610-mmp/lab-video
+[submodule "04-speech-recognition"]
+	path = 04-speech-recognition
+	url = https://github.com/cisc3610-mmp/04-speech-recognition
