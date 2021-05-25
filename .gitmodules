@@ -28,3 +28,6 @@
 [submodule "04-speech-recognition"]
 	path = 04-speech-recognition
 	url = https://github.com/cisc3610-mmp/04-speech-recognition
+[submodule "lab-resume"]
+	path = lab-resume
+	url = https://github.com/cisc3610-mmp/lab-resume
